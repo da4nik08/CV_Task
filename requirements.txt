@@ -1,0 +1,4 @@
+numpy==1.24.4
+Pillow==10.0.0
+torch==2.0.1+cu118
+ultralytics==8.0.171
